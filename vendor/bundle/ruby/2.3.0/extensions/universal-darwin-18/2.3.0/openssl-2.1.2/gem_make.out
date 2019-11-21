@@ -1,0 +1,5 @@
+current directory: /Users/anoland/repos/ruby-skills-sample/vendor/bundle/ruby/2.3.0/gems/openssl-2.1.2/ext/openssl
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -I /Library/Ruby/Site/2.3.0 -r ./siteconf20191121-55603-gmuc1m.rb extconf.rb
+mkmf.rb can't find header files for ruby at /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
